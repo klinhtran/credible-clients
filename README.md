@@ -41,6 +41,11 @@ _Good luck, and have fun with this_! :rocket:
 Give a brief summary of the approach you took, and why! Include your model's
 accuracy/precision/recall scores as well!
 
+I found that scikit-learn has a built in classifier called the Gaussian Naive Bayes. I created an instance of GaussianNB in the constructor and delegated training and predicting to it. My scores were as following:
+Accuracy:  38.107%
+Precision: 24.436%
+Recall:    88.568%
+
 
 ## Data Format
 
